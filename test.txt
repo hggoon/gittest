@@ -1,3 +1,3 @@
 test
-shon one joo
-teacher - edit branchTest
+shon one joo - good teacher -edit master
+branchTest teacher - edit branchTest
